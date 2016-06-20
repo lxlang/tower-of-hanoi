@@ -1,0 +1,10 @@
+{
+    "name": "lxlang/hanoi",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}
